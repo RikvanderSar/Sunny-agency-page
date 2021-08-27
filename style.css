@@ -181,7 +181,7 @@ nav ul::before {
 ==============================*/
 
 .hero {
-    background-image: url(./images/mobile/image-header.jpg);
+    background-image: url(../images/mobile/image-header.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -203,7 +203,7 @@ h1 {
 
 @media (min-width: 725px) {
     .hero {
-        background-image: url(./images/desktop/image-header.jpg);
+        background-image: url(../images/desktop/image-header.jpg);
     }
 
     h1 {
@@ -274,7 +274,7 @@ h2 {
 
 .services__imgcard--cherry {
     text-align: center;
-    background-image: url(./images/mobile/image-graphic-design.jpg);
+    background-image: url(../images/mobile/image-graphic-design.jpg);
     background-position: center top;
     background-size: cover;
     background-repeat: no-repeat;
@@ -284,7 +284,7 @@ h2 {
 
 .services__imgcard--orange {
     text-align: center;
-    background-image: url(./images/mobile/image-photography.jpg);
+    background-image: url(../images/mobile/image-photography.jpg);
     background-position: center top;
     background-size: cover;
     background-repeat: no-repeat;
@@ -330,13 +330,13 @@ h2 {
 
     .services__imgcard--cherry {
         order: 5;
-        background-image: url(./images/desktop/image-graphic-design.jpg);
+        background-image: url(../images/desktop/image-graphic-design.jpg);
         padding: 24em 4em 3em;
     }
 
     .services__imgcard--orange {
         order: 6;
-        background-image: url(./images/desktop/image-photography.jpg);
+        background-image: url(../images/desktop/image-photography.jpg);
         padding: 24em 4em 3em;
     }
 }
@@ -452,19 +452,19 @@ h2 {
 }
 
 .img-section__img1 {
-    background-image: url(./images/mobile/image-gallery-milkbottles.jpg);
+    background-image: url(../images/mobile/image-gallery-milkbottles.jpg);
 }
 
 .img-section__img2 {
-    background-image: url(./images/mobile/image-gallery-orange.jpg);
+    background-image: url(../images/mobile/image-gallery-orange.jpg);
 }
 
 .img-section__img3 {
-    background-image: url(./images/mobile/image-gallery-cone.jpg);
+    background-image: url(../images/mobile/image-gallery-cone.jpg);
 }
 
 .img-section__img4 {
-    background-image: url(./images/mobile/image-gallery-sugar-cubes.jpg);
+    background-image: url(../images/mobile/image-gallery-sugar-cubes.jpg);
 }
 
 @media (min-width: 750px) {
@@ -473,19 +473,19 @@ h2 {
     }
 
     .img-section__img1 {
-        background-image: url(./images/desktop/image-gallery-milkbottles.jpg);
+        background-image: url(../images/desktop/image-gallery-milkbottles.jpg);
     }
 
     .img-section__img2 {
-        background-image: url(./images/desktop/image-gallery-orange.jpg);
+        background-image: url(../images/desktop/image-gallery-orange.jpg);
     }
     
     .img-section__img3 {
-        background-image: url(./images/desktop/image-gallery-cone.jpg);
+        background-image: url(../images/desktop/image-gallery-cone.jpg);
     }
     
     .img-section__img4 {
-        background-image: url(./images/desktop/image-gallery-sugarcubes.jpg);
+        background-image: url(../images/desktop/image-gallery-sugarcubes.jpg);
     }
 }
 
