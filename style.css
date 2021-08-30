@@ -2,7 +2,6 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    overflow-x: hidden;
 }
 
 Body {
@@ -17,6 +16,7 @@ Body {
     max-width: 1100px;
     margin: 0 auto;
     position: relative;
+    overflow-x: hidden;
 }
 
 li {
